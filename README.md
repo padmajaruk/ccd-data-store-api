@@ -46,6 +46,7 @@ The following environment variables are required:
 | DRAFT_ENCRYPTION_KEY | - | Draft encryption key. The encryption key used by draft store to encrypt documents with. |
 | DRAFT_TTL_DAYS | - | Number of days after which the saved draft will be deleted if unmodified. |
 
+
 ### Building
 
 The project uses [Gradle](https://gradle.org/).
